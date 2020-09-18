@@ -12,7 +12,7 @@ also you can fech data stored in json file with GET method or address http://loc
 */
 
 const express=require('express');
-const data=require('./data/MOCK_DATA.json');
+const data=require('./MOCK_DATA.json');
 
 const app=express();
 const port= process.env.PORT||3000;
