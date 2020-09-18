@@ -1,0 +1,16 @@
+{
+    "properties": [
+        {
+            "id": 1,
+            "first_name": "Mahdiyeh",
+            "last_name": "Parham",
+            "Tel": "+989193340147"
+        },
+        {
+            "id": 2,
+            "first_name": "Mahdiyeh",
+            "last_name": "Parham",
+            "Tel": "+982222222222"
+        }
+    ]
+}
